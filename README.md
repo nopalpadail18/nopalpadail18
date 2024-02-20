@@ -1,47 +1,45 @@
-hi, i'm [Naufal Fadhail Ilahi](https://abhishknads.me/), a passionate self-taught frontend developer and a freelance software engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<h2 align="left">Hi 👋! My name is Naufal Fadhail Ilahi and I'm a Frontend Developer, from Indonesia</h2>
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+###
 
-**languages and tools:**  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+###
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+###
 
-```txt
-Vue   12 hrs 48 mins  ████████████████▓░░░░░░░░   66.02 %
-React   3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Next JS         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Bash         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-CSS          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-```
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<!--END_SECTION:waka-->
+###
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<br clear="both">
 
-<a href="https://www.buymeacoffee.com/nopalpadail18" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nopalpadail18&show_icons=true&theme=gotham" alt="nopalpadail18" />
+###
